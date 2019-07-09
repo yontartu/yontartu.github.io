@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 permalink: /photography/
-weight: 5
+weight: 4
 ---
 
 # Photo Gallery
