@@ -10,7 +10,6 @@ weight: 4
 <br>
 I enjoy taking photos. Here are some of my favorites from my travels. 
 
-<br>
 
 <table>
 <tr>
