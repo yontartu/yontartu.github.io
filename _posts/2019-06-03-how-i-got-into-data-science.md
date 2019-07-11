@@ -1,12 +1,12 @@
 ---
-title: How I got into data science
+title: How I Got into Data Science
 tags: [Data Science]
-style: border
-color: light
+style: 
+color: 
 description: To me, data science is all about answering interesting puzzles and leveraging data for real-world impact.
 ---
 
-## How I got into Data Sciencce
+## How I Got into Data Sciencce
 
 To me, data science is all about answering interesting puzzles and leveraging data for real-world impact.
 
