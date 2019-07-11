@@ -14,7 +14,7 @@ I enjoy taking photos. Here are some of my favorites from my travels.
 <table>
 <tr>
     <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/ryoanji.jpg" alt="ryoanji"/> </td>
-    <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/cacti.jpg" alt="cacti"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/cacti.jpg" alt="cacti"/ class="rotate180"> </td>
 </tr>
 
 <tr>
@@ -22,7 +22,7 @@ I enjoy taking photos. Here are some of my favorites from my travels.
 	<td style="text-align: right;">Palm Springs, CA</td>
 </tr>
 
-<tr></tr>
+<tr><td></td><td></td></tr>
 
 <tr>
     <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/takayama.jpg" alt="takayama"/> </td>
