@@ -11,5 +11,13 @@ weight: 4
 I enjoy taking photos. Here are some of my favorites from my travels. 
 
 <br>
-![ryoanji](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/ryoanji.jpg) ![cacti](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/cacti.jpg)
-<p style="text-align: left;">Kyoto, Japan</p><p style="text-align: right;">Palm Springs, CA</p>
+
+<tr>
+    <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/ryoanji.jpg" alt="ryoanji"/> </td>
+    <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/cacti.jpg" alt="Drawing"/> </td>
+</tr>
+
+<tr>
+	<td style="text-align: left;">Kyoto, Japan</td>
+	<td style="text-align: right;">Palm Springs, CA</td>
+</tr>
