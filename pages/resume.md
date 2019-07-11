@@ -5,6 +5,4 @@ permalink: /resume/
 weight: 5
 ---
 
-# Resume
-
 Download a copy of my resume [here](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/assets/JosephGoodman_Resume.pdf). 
