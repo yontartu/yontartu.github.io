@@ -22,6 +22,8 @@ I enjoy taking photos. Here are some of my favorites from my travels.
 	<td style="text-align: right;">Palm Springs, CA</td>
 </tr>
 
+<tr></tr>
+
 <tr>
     <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/takayama.jpg" alt="takayama"/> </td>
     <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/goldpavilion.jpg" alt="goldpavilion"/> </td>
