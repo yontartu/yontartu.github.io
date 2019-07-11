@@ -1,8 +1,8 @@
 ---
 title: How I Got into Data Science
 tags: [Data Science]
-style: 
-color: 
+style: fill
+color: light
 description: To me, data science is all about answering interesting puzzles and leveraging data for real-world impact.
 ---
 
