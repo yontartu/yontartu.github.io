@@ -6,7 +6,6 @@ color: light
 description: To me, data science is all about answering interesting puzzles and leveraging data for real-world impact.
 ---
 
-## How I Got into Data Sciencce
 
 To me, data science is all about answering interesting puzzles and leveraging data for real-world impact.
 
