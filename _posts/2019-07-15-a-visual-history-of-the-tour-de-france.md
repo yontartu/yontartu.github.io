@@ -22,13 +22,7 @@ On July 2, the largest annual sporting event in the world got underway for the 1
 
 ![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/00_num_stages_over_time.png)
 
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/11_paris_chord.png)
-
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/09_bordeaux_chord.png)
-
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/10_marseille_chord.png)
-
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/04_nationalities_of_riders.png)
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/04_nationalities_of_riders.png)
 
 ![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/05_euro_riders.png)
 
