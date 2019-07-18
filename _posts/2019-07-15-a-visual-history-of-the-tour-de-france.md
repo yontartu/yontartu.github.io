@@ -13,7 +13,7 @@ On July 2, the largest annual sporting event in the world got underway for the 1
 <iframe src="/images/tdf/chord.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="700"
     scrolling="no"
     seamless="seamless"
     frameborder="0">
