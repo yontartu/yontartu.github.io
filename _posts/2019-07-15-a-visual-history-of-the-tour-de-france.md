@@ -26,7 +26,7 @@ On July 2, the largest annual sporting event in the world got underway for the 1
 
 <br>
 
-#### What cities in France have hosted the most stages?
+#### Which cities in France have hosted the most stages?
 
 <iframe src="/images/tdf/chord.html"
     sandbox="allow-same-origin allow-scripts"
@@ -45,7 +45,7 @@ On July 2, the largest annual sporting event in the world got underway for the 1
 
 <img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/01_cumulative_yellow_jerseys_over_time.png" alt="cumulative_yellow_jerseys_over_time" width="700"/>
 
-<img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/02_rankings_2018.png" alt="rankings_2018" width="700"/>
+<img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/02_rankings_2018.png" alt="rankings_2018" width="600"/>
 
 <!-- ![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/13_lifetime_jersey_winners.png)
 
