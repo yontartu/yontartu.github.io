@@ -12,9 +12,9 @@ On July 2, the largest annual sporting event in the world got underway for the 1
 
 #### How has the race changed over time (in terms of length and the make-up of riders)?
 
-<img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/00_num_stages_over_time.png" alt="num_stages_over_time" width="200"/>
+<img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/00_num_stages_over_time.png" alt="num_stages_over_time" width="800"/>
 
-<img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/04_nationalities_of_riders.png" alt="nationalities_of_riders" width="200"/>
+<img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/04_nationalities_of_riders.png" alt="nationalities_of_riders" width="800"/>
 
 <!-- ![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/00_num_stages_over_time.png) -->
 
