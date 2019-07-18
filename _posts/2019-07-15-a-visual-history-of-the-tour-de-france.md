@@ -9,6 +9,17 @@ description: Charting the last century of Tour de France races.
 
 On July 2, the largest annual sporting event in the world got underway for the 110th (?) time in history. 
 
+
+<iframe src="/images/tdf/chord.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
+
+
 ![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/00_num_stages_over_time.png)
 
 ![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/11_paris_chord.png)
