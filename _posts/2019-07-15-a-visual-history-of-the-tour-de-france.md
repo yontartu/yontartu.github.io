@@ -10,6 +10,21 @@ description: Charting the last century of Tour de France races.
 On July 2, the largest annual sporting event in the world got underway for the 110th (?) time in history. 
 
 
+### How has the race changed over time (in terms of length and the make-up of riders)?
+
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/00_num_stages_over_time.png)
+
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/04_nationalities_of_riders.png)
+
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/05_euro_riders.png)
+
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/06_noneuro_riders.png)
+
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/07_nationality_mixture_over_time.png)
+
+
+### Interactive chart to explore city-to-city links
+
 <iframe src="/images/tdf/chord.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
@@ -20,23 +35,28 @@ On July 2, the largest annual sporting event in the world got underway for the 1
 </iframe>
 
 
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/00_num_stages_over_time.png)
+
+### How has the race changed over time (in terms of length and the make-up of riders)?
+
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/00_num_stages_over_time.png)
 
 ![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/04_nationalities_of_riders.png)
 
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/05_euro_riders.png)
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/05_euro_riders.png)
 
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/06_noneuro_riders.png)
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/06_noneuro_riders.png)
 
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/07_nationality_mixture_over_time.png)
-
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/13_lifetime_jersey_winners.png)
-
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/01_cumulative_yellow_jerseys_over_time.png)
-
-![alt text](https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/tdf/02_rankings_2018.png)
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/07_nationality_mixture_over_time.png)
 
 
+### Who are the most successful riders in history?
+
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/13_lifetime_jersey_winners.png)
+
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/01_cumulative_yellow_jerseys_over_time.png)
+
+![alt text](https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/02_rankings_2018.png)
 
 
-### Embed html for bokeh chart?
+
+
