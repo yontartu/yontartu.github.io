@@ -10,27 +10,35 @@ weight: 4
 <br>
 I enjoy taking photos. Here are some of my favorites from my travels. 
 
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/01_abq.jpg" alt="01_abq" width="800" />
+Albuquerque, NM
 
-<table>
-<tr>
-    <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/ryoanji.jpg" alt="ryoanji"/> </td>
-    <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/cacti.jpg" alt="cacti" class="rotate180"/> </td>
-</tr>
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/02_jt.jpg" alt="02_jt" width="800" />
+Joshua Tree, CA
 
-<tr>
-	<td style="text-align: left;">Kyoto, Japan</td>
-	<td style="text-align: right;">Palm Springs, CA</td>
-</tr>
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/03_takayama.jpg" alt="03_takayama" width="800" />
+Takayama, Japan
 
-<tr><td> </td><td> </td></tr>
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/04_goldpavilion.jpg" alt="04_goldpavilion" width="800" />
+Kyoto, Japan
 
-<tr>
-    <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/takayama.jpg" alt="takayama"/> </td>
-    <td> <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/goldpavilion.jpg" alt="goldpavilion"/> </td>
-</tr>
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/05_marfa.jpg" alt="05_marfa" width="800" />
+Marfa, TX
 
-<tr>
-	<td style="text-align: left;">Takayama, Japan</td>
-	<td style="text-align: right;">Kyoto, Japan</td>
-</tr>
-</table>
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/06_selma.jpg" alt="06_selma" width="800" />
+Selma, AL
+
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/07_ryoanji.jpg" alt="07_ryoanji" width="800" />
+Kyoto, Japan
+
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_cacti.jpg" alt="08_cacti" width="800" />
+Palm Springs, CA
+
