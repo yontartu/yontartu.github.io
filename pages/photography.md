@@ -39,6 +39,6 @@ Selma, AL
 Kyoto, Japan
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_cacti.jpg" alt="08_cacti" width="800" />
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_cacti.jpg" alt="08_cacti" width="800" class=rotate180/>
 Palm Springs, CA
 
