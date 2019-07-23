@@ -6,9 +6,12 @@ description: I love bikes. I was curious about how the most famous bike race in 
 ---
 
 
-Code in support of [my article](https://yontartu.github.io/articles/a-visual-history-of-the-tour-de-france) that charts the past century of Tour de France races can be found on [my GitHub](https://github.com/yontartu/tour-de-france).
+# A Visual History of the Tour de France
+
+Code in support of [my article](https://yontartu.github.io/articles/a-visual-history-of-the-tour-de-france) (which charts the past century of Tour de France races) can be found on [my GitHub](https://github.com/yontartu/tour-de-france).
 
 The code snippets below show how I built some of the charts in my article. 
+
 
 ### Chord chart
 
@@ -23,6 +26,7 @@ chord.opts(
 ```
 
 <img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/11_paris_chord.png" alt="11_paris_chord" width="600"/>
+
 
 ### Bump chart
 
@@ -73,7 +77,10 @@ plt.savefig(os.getcwd() + '/img/02_rankings_2018.png')
 
 <img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/02_rankings_2018.png" alt="rankings_2018" width="600"/>
 
+
 ### "Sumo" chart
+
+Inspired by the delightful charts from FiveThirtyEight's [project on sumo wrestling](https://fivethirtyeight.com/features/the-sumo-matchup-centuries-in-the-making/). 
 
 Takes a dataframe with columns for `year`, `cum_yellows` (for cumulative yellow jersey counts) and `rider` (for the rider's name). 
 
@@ -129,6 +136,7 @@ plt.savefig(os.getcwd() + '/img/01_cumulative_yellow_jerseys_over_time.png')
 ```
 
 <img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/01_cumulative_yellow_jerseys_over_time.png" alt="cumulative_yellow_jerseys_over_time" width="700"/>
+
 
 ### Percentage stacked area chart
 
