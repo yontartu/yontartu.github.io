@@ -27,7 +27,6 @@ chord.opts(
 
 <img src="https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/11_paris_chord.png" alt="11_paris_chord" width="600"/>
 
-
 ### Bump chart
 
 Takes a dataframe with columns for `stage_num`, `ranking`, and `rider` (for the rider's name). 
