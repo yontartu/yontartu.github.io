@@ -13,7 +13,7 @@ I grew up in San Francisco, CA and have also lived in Washington, DC and Beijing
 In my free time, I enjoy riding (and occasionally building) bicycles. 
 
 <br>
-You can reach me at joseph.goodman.yenching [at] Gmail. 
+You can reach me at `hello` [at] `joeygoodman.us`. 
 
 <div class="row">
 {% include about/timeline.html %}
