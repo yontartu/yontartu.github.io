@@ -3,12 +3,12 @@ title: A Visual History of the Tour de France
 tags: [Data Science, Web Scraping, Data Viz, Bikes]
 style: fill
 color: light
-description: Charting the last century of Tour de France races.
+description: An article exploring the last century of Tour de France races.
 ---
 
 <br>
 
-On July 2, the largest annual sports competition in the world, the Tour de France, got underway for the 105th time in history. The Tour is the most famous cycling race in the world perhaps due to its combination of grit and grace: each year the top cyclists in the world endure 21 punishing days of racing while winding their way through picturesque backdrops of the lavender fields of Provence and the peaks of the Pyrenees. I was curious about how today's Tour differs from its earliest days, so I wrote a web-scraper in Python to compile information on each race going back to 1903, the first year the Tour took place. The official race website contains [historical statistics](https://www.letour.fr/en/history) on each year's race, including information on daily race standings, details about the route, race times and winners. Using this information, I wanted to chart the last century of Tour de France races to explore how it has evolved throughout history. 
+On July 2, 2019, the largest annual sports competition in the world, the Tour de France, got underway for the 105th time in history. The Tour is the most famous cycling race in the world perhaps due to its combination of grit and grace: each year the top cyclists in the world endure 21 punishing days of racing while winding their way through picturesque backdrops of the lavender fields of Provence and the peaks of the Pyrenees. I was curious about how today's Tour differs from its earliest days, so I wrote a web-scraper in Python to compile information on each race going back to 1903, the first year the Tour took place. The official race website contains [historical statistics](https://www.letour.fr/en/history) on each year's race, including information on daily race standings, details about the route, race times and winners. Using this information, I wanted to chart the last century of Tour de France races to explore how it has evolved throughout history. 
 
 #### The Tour has criss-crossed every corner of France
 

@@ -1,12 +1,12 @@
 ---
-name: A Visual History of the Tour de France
+name: Charting the Last Century of Tour de France Races
 tools: [Python, Web Scraping, Data Viz, Sports]
 image: https://raw.githubusercontent.com/yontartu/tour-de-france/master/img/11_paris_chord.png
 description: I love bikes. I was curious about how the most famous bike race in the world, the Tour de France, has changed over the past century. So I scraped some data from the official race site and built some visualizations.
 ---
 
 
-# A Visual History of the Tour de France
+# Code behind "A Visual History of the Tour de France"
 
 Code in support of [my article](https://yontartu.github.io/articles/a-visual-history-of-the-tour-de-france) (which charts the past century of Tour de France races) can be found on [my GitHub](https://github.com/yontartu/tour-de-france).
 
@@ -18,6 +18,12 @@ The code snippets below show how I built some of the charts in my article.
 Takes in a `links` dataframe (with columns for `source` and `target` position, and a `value` column to use for line weights) and a `nodes` dataframe (with columns for `index` for city position name and `city` with the name of the city). 
 
 ```python
+import holoviews as hv
+from holoviews import opts, dim
+
+hv.extension('bokeh')
+hv.output(size=200)
+
 chord = hv.Chord((links_tdf
                   , nodes_tdf))
 chord.opts(
@@ -65,12 +71,14 @@ for rider in list(data.rider.unique()):
         ax.plot(d.stage_num, d.ranking, color='grey', alpha=0.2, linewidth=1.5)
     
 plt.gca().invert_yaxis()
-ax.set_title('\n Four riders were once in First Place during the\n 2018 race, but Geraint Thomas led for most of it. \n', size=18)
+ax.set_title('\n Four riders were once in First Place during the\n 2018 race, but Geraint Thomas led for most of it. \n'
+             , size=18)
 ax.set_ylabel('\n Rank \n', size=14)
 ax.set_xlabel('\n Stage Number \n', size=14)
 ax.set_xticks([5,10,15,21])
 ax.set_yticks([1,25,50,75,100,125,150,175])
-plt.annotate('\n Source: www.letour.fr \n', (0,0), (-50, -50), xycoords='axes fraction', textcoords='offset points', va='top', size=10)
+plt.annotate('\n Source: www.letour.fr \n', (0,0), (-50, -50), xycoords='axes fraction', 
+             textcoords='offset points', va='top', size=10)
 plt.savefig(os.getcwd() + '/img/02_rankings_2018.png')
 ```
 
@@ -128,9 +136,11 @@ for rider in list(data.rider.unique()):
     else:
         ax.plot(d.year, d.cum_yellows, color='grey', alpha=0.3, linewidth=3)
     
-plt.title('\n Who are the most dominant riders ever? \n(as measured by cumulative yellow jerseys)\n', size=18)
+plt.title('\n Who are the most dominant riders ever? \n(as measured by cumulative yellow jerseys)\n'
+          , size=18)
 plt.ylim(0,119)
-plt.annotate('\n Source: www.letour.fr \n', (0,0), (-10, -20), xycoords='axes fraction', textcoords='offset points', va='top', size=10)
+plt.annotate('\n Source: www.letour.fr \n', (0,0), (-10, -20), xycoords='axes fraction', 
+             textcoords='offset points', va='top', size=10)
 plt.savefig(os.getcwd() + '/img/01_cumulative_yellow_jerseys_over_time.png')
 ```
 
@@ -161,8 +171,10 @@ for country, info in labels_dict.items():
 plt.stackplot(years, countries, colors=color_list, labels=labels_dict)
 ax.set_yticks([.25,.5,.75,1])
 ax.set_yticklabels(['25%','50%','75%','100%'])
-ax.set_title('\n In recent decades, the composition of Tour de France riders has gotten more diverse. \n ', size=18)
-plt.annotate('\n Source: www.letour.fr \n', (0,0), (-10, -20), xycoords='axes fraction', textcoords='offset points', va='top', size=10)
+ax.set_title('\n In recent decades, the composition of Tour de France riders has gotten more diverse. \n '
+             , size=18)
+plt.annotate('\n Source: www.letour.fr \n', (0,0), (-10, -20), xycoords='axes fraction', 
+             textcoords='offset points', va='top', size=10)
 plt.savefig(os.getcwd() + '/img/07_nationality_mixture_over_time.png')
 plt.show()
 ```
