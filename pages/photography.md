@@ -32,18 +32,18 @@ Oaxaca, Mexico
 
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/06_southafrica.jpg" alt="06_southafrica" width="800" />
-Capetown, South Africa
+Cape Town, South Africa
 
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/07_valley_of_the_gods.jpg" alt="07_valley_of_the_gods" width="800" />
 Valley of the Gods, UT
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_fuji.jpg" alt="08_fuji" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_fuji.jpg" alt="08_fuji" width="800"/>
 Mt. Fuji, Japan
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_namtso.JPG" alt="09_namtso" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_namtso.JPG" alt="09_namtso" width="800"/>
 Lake Namtso, Tibet
 
 <br>
@@ -51,7 +51,7 @@ Lake Namtso, Tibet
 Miyajima, Japan
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/11_angkor_wat.jpg" alt="11_angkor_wat" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/11_angkor_wat.jpg" alt="11_angkor_wat" width="800"/>
 Angkor Wat, Cambodia
 
 <br>
@@ -59,11 +59,11 @@ Angkor Wat, Cambodia
 Dunhuang, China
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/13_hokkaido.jpg" alt="13_hokkaido" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/13_hokkaido.jpg" alt="13_hokkaido" width="800"/>
 Hokkaido, Japan
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/14_tokyo.jpg" alt="14_tokyo" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/14_tokyo.jpg" alt="14_tokyo" width="800"/>
 Tokyo, Japan
 
 <br>
@@ -75,7 +75,7 @@ Jiufen, Taiwan
 Beijing, China
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/17_monterey.jpg" alt="17_monterey.jpg" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/17_monterey.jpg" alt="17_monterey.jpg" width="800"/>
 Monterey, CA
 
 <br>
@@ -83,15 +83,15 @@ Monterey, CA
 Kanazawa, Japan
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/19_zion.jpg" alt="19_zion" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/19_zion.jpg" alt="19_zion" width="800"/>
 Zion National Park, UT
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sapa.jpg" alt="20_sapa" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sapa.jpg" alt="20_sapa" width="800"/>
 Sapa, Vietnam
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/21_pfeiffer.jpg" alt="21_pfeiffer.jpg" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/21_pfeiffer.jpg" alt="21_pfeiffer.jpg" width="800"/>
 Pfeiffer Beach, CA
 
 
