@@ -11,3 +11,24 @@
         box-shadow: -2px 8px 40px -12px rgba(0, 0, 0, .24);
     }
 }
+
+
+.project {
+
+    .rotate180 {
+                -webkit-transform: rotate(180deg);
+                -moz-transform: rotate(180deg);
+                -o-transform: rotate(180deg);
+                -ms-transform: rotate(180deg);
+                transform: rotate(180deg);
+    }
+
+    .rotate90 {
+                -webkit-transform: rotate(90deg);
+                -moz-transform: rotate(90deg);
+                -o-transform: rotate(90deg);
+                -ms-transform: rotate(90deg);
+                transform: rotate(90deg);
+    }
+    
+}
