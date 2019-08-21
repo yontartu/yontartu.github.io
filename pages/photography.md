@@ -39,11 +39,11 @@ Cape Town, South Africa
 Valley of the Gods, UT
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_barcelona.jpg" alt="08_barcelona" width="800"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_barcelona.jpg" alt="08_barcelona" width="450"/>
 Barcelona, Spain
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_lhasa.JPG" alt="09_lhasa" width="800"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_lhasa.JPG" alt="09_lhasa" width="450" class="rotate90"/>
 Lhasa, Tibet
 
 <br>
@@ -87,11 +87,11 @@ Kanazawa, Japan
 Zion National Park, UT
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sigol.JPG" alt="20_sigol" width="800"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sigol.JPG" alt="20_sigol" width="450" class="rotate90"/>
 Seocheon, South Korea
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/21_venice.jpg" alt="21_venice" width="800"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/21_venice.jpg" alt="21_venice" width="450"/>
 Venice, Italy
 
 <br>
@@ -99,7 +99,7 @@ Venice, Italy
 Snowden, Wales
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/23_truth.jpg" alt="23_truth" width="800"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/23_truth.jpg" alt="23_truth" width="450"/>
 San Francisco, CA
 
 <br>
