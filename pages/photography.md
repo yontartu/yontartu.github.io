@@ -39,12 +39,12 @@ Cape Town, South Africa
 Valley of the Gods, UT
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_fuji.jpg" alt="08_fuji" width="800"/>
-Mt. Fuji, Japan
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_barcelona.jpg" alt="08_barcelona" width="800"/>
+Barcelona, Spain
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_namtso.JPG" alt="09_namtso" width="800"/>
-Lake Namtso, Tibet
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_lhasa.JPG" alt="09_lhasa" width="800"/>
+Lhasa, Tibet
 
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/10_miyajima.JPG" alt="10_miyajima" width="800" class="rotate180"/>
@@ -75,7 +75,7 @@ Jiufen, Taiwan
 Beijing, China
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/17_monterey.jpg" alt="17_monterey.jpg" width="800"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/17_monterey.jpg" alt="17_monterey" width="800"/>
 Monterey, CA
 
 <br>
@@ -87,12 +87,26 @@ Kanazawa, Japan
 Zion National Park, UT
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sapa.jpg" alt="20_sapa" width="800"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sigol.JPG" alt="20_sigol" width="800"/>
+Seocheon, South Korea
+
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/21_venice.jpg" alt="21_venice" width="800"/>
+Venice, Italy
+
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/22_snowden.jpg" alt="22_snowden" width="800"/>
+Snowden, Wales
+
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/23_truth.jpg" alt="23_truth" width="800"/>
+San Francisco, CA
+
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/24_sapa.jpg" alt="24_sapa" width="800"/>
 Sapa, Vietnam
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/21_pfeiffer.jpg" alt="21_pfeiffer.jpg" width="800"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/25_pfeiffer.jpg" alt="25_pfeiffer" width="800"/>
 Pfeiffer Beach, CA
-
-
 
