@@ -6,12 +6,13 @@ description: I built a machine learning model that predicts whether a tweet is f
 ---
 
 
-# Code behind "Classifying Tweets from Russian Trolls"
+# Classifying Tweets from Russian Trolls
 
 
 Testing out my chart made in `bokeh`.
 
-<iframe src="/images/russian_trolls/explore_tweet_predictions.html"
+
+<iframe src="https://raw.githubusercontent.com/yontartu/bot-vs-human/master/results/img/06_explore_tweet_predictions.html"
     sandbox="allow-same-origin allow-scripts"
     width="1000"
     height="600"
