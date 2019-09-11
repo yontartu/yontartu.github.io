@@ -1,7 +1,7 @@
 ---
 name: Classifying Tweets from Russian Trolls
 tools: [Python, Data Science, NLP, Data Viz, Twitter]
-image: https://raw.githubusercontent.com/yontartu/bot-vs-human/master/results/img/02_word_cloud_trolls.png
+image: https://raw.githubusercontent.com/yontartu/yontartu.github.io./images/russian_trolls/tweets_thumbnail.png
 description: I built a machine learning model that predicts whether a tweet is from a "Right Troll" account controlled by Russia's Internet Research Agency. 
 ---
 
