@@ -1,7 +1,7 @@
 ---
 name: Citizens United
-tools: [Python, Data Science, NLP, Data Viz, Twitter]
-image: https://https://raw.githubusercontent.com/yontartu/citizens-united/master/img/award_vs_pac_soft.gif
-description: Together with another fellow at Flatiron Phoebe Wong, I explored the relationshiop between federal contracts and campaign contributions before and after Citizens United. 
+tools: [Python, Data Science, Data Viz]
+image: https://https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/citizens_united/soft_money_2018.png
+description: Together with Phoebe Wong (another data science fellow at Flatiron School), I explored the relationship between federal contracts and political campaign contributions before and after Citizens United. 
 external_url: https://github.com/yontartu/citizens-united
 ---
