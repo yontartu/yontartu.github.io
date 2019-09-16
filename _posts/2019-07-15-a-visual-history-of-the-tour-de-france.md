@@ -66,4 +66,4 @@ It's also possible to use this stage-level information to look at how a single y
 
 One thing you may have noticed about the above charts showing top jersey winners is the conspicuous omission of Lance Armstrong, who was known as the most dominant cyclist in the history of the sport before admitting to using performance enhancing drugs. It appears as though race officials have completely scrubbed his name from the records, as well as other known dopers. 
 
-Code snippets showing how I built some of these charts can be found [here](https://yontartu.github.io/projects/2-tour-de-france).
+Code snippets showing how I built some of these charts can be found [here](https://yontartu.github.io/projects/3-tour-de-france).
