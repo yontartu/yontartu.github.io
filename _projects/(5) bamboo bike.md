@@ -13,8 +13,12 @@ Before moving to Beijing in 2017, I'd heard about a bicycle studio that put on w
 Bamboo Bicycles Beijing (BBB) is nestled in the old quarter of Beijing within the Second Ring Road, just Northeast of the Forbidden City on a quiet alleyway called *Langjia hutong*. In these ancient mazes of narrow streets, the incessant buzz of the bustling city receded into a calm. Retirees taking leisurely strolls wander by, the curious ones occassionally peering into the studio. 
 
 <br>
+<br>
+
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/00.JPG" alt="00" width="400" class="rotate90"/>
 
+<br>
+<br>
 <br>
 <br>
 
@@ -29,6 +33,9 @@ The workshop is a cramped 500 square feet or so, but they've somehow managed to 
 <br>
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/01.JPG" alt="01" width="400" class="rotate90"/>
+
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/03.JPG" alt="03" width="400" class="rotate180"/>
 
