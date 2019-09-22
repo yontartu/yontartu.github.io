@@ -8,7 +8,7 @@ description: While living in Beijing, I spent a winter building a bicycle out of
 
 # How to Build a Bamboo Bike from Scratch
 
-Before moving to Beijing in 2017, I'd heard about a bicycle studio that put on workshops to teach people how to build a bike out of bamboo and carbon fiber. While I was in college I'd welded my own bike out of steel, an experience which I had absolutely loved. But bamboo! This I couldn't pass up. I signed up for a workshop soon after settling into my dorm at Peking University.
+Before moving to Beijing in 1017, I'd heard about a bicycle studio that put on workshops to teach people how to build a bike out of bamboo and carbon fiber. While I was in college I'd welded my own bike out of steel, an experience which I had absolutely loved. But bamboo! This I couldn't pass up. I signed up for a workshop soon after settling into my dorm at Peking University.
 
 Bamboo Bicycles Beijing (BBB) is nestled in the old quarter of Beijing within the Second Ring Road, just Northeast of the Forbidden City on a quiet alleyway called *Langjia hutong*. In these ancient mazes of narrow streets, the incessant buzz of the bustling city recedes into a calm. Retirees taking leisurely strolls wander by, the curious ones occassionally peering into the studio. 
 
@@ -77,7 +77,7 @@ The first order of business was to pick out the pieces of bamboo for my bike. BB
 <br>
 <br>
 
-After picking out three thicker pieces (for the top tube, down tube and seat tube) and two narrower ones for the seat stays and chain stays, I proceeded to cut one to its appropriate length and angle. Mowgli had pre-calculated the ideal dimensions, given my height, and used a software program to compute how to optimally slice each bamboo piece so that they'd fit together well.  
+After picking out three thicker pieces (for the top tube, down tube and seat tube) and two narrower ones for the seat stays and chain stays, I proceeded to cut one to its appropriate length and angle. Mowgli had pre-calculated the ideal dimensions, given my height, and used a software program called CattleCAD to compute how to optimally slice each bamboo piece so that they'd fit together well.  
 
 <br>
 <br>
@@ -89,7 +89,7 @@ After picking out three thicker pieces (for the top tube, down tube and seat tub
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/10.JPG" alt="10" width="400" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/10.JPG" alt="10" width="400"/>
 
 <br>
 <br>
@@ -106,18 +106,78 @@ Next we needed to mount each bamboo tube in a jig, which is used to hold each pi
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/12.JPG" alt="12" width="400" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/12.JPG" alt="12" width="400"/>
 
 <br>
 <br>
 
-text text text
+BBB had recently investin in a laser engraver and offered to let me be the first to try it out on my bike! I though it would be cool to put "Bamboo Bicycles Beijing" on the down tube, and I also added the characters for my Chinese name on the inside of the seat tube. 
 
+<br>
+<br>
+
+text 
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/13.JPG" alt="13" width="400" class="rotate90"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/14.JPG" alt="14" width="400" class="rotate90"/>
+
+<br>
+<br>
+
+text 
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/15.JPG" alt="15" width="400" class="rotate90"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/16.JPG" alt="16" width="400" class="rotate90"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/17.JPG" alt="17" width="400" class="rotate90"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/18.JPG" alt="18" width="400" class="rotate90"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/19.JPG" alt="19" width="400" class="rotate90"/>
+
+<br>
+<br>
+
+text 
 <br>
 <br>
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/20.JPG" alt="20" width="400" class="rotate90"/>
 
+<br>
 <br>
 
 ### Day 2
