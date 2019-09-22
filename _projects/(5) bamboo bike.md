@@ -22,10 +22,11 @@ Bamboo Bicycles Beijing (BBB) is nestled in the old quarter of Beijing within th
 
 <br>
 <br>
-<br>
-<br>
 
 The workshop is a cramped 500 square feet or so, but they've somehow managed to fit six workstations into the space. On the frigid December weekend I show up, I'm the only one working on a bike. 
+
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/01.JPG" alt="01" width="400" class="rotate90"/>
 
