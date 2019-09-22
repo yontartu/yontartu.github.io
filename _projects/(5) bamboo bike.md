@@ -116,11 +116,6 @@ BBB had recently investin in a laser engraver and offered to let me be the first
 <br>
 <br>
 
-text 
-
-<br>
-<br>
-
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/13.JPG" alt="13" width="400" class="rotate90"/>
 
 <br>
@@ -138,14 +133,14 @@ text
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/15.JPG" alt="15" width="400" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/15.JPG" alt="15" width="400"/>
 
 <br>
 <br>
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/16.JPG" alt="16" width="400" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/16.JPG" alt="16" width="400"/>
 
 <br>
 <br>
@@ -171,7 +166,8 @@ text
 <br>
 <br>
 
-text 
+By the end of the afternoon on Saturday, ... 
+
 <br>
 <br>
 
@@ -182,9 +178,71 @@ text
 
 ### Day 2
 
+Blah blah blah
+
+<br>
+<br>
+
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/21.jpg" alt="21" width="400"/>
 
-etc etc etc
+<br>
+<br>
+
+text
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/22.JPG" alt="22" width="400" class="rotate90"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/23.JPG" alt="23" width="400" class="rotate90"/>
+
+<br>
+<br>
+
+Almost finished!
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/24.JPG" alt="24" width="400" class="rotate90"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/25.JPG" alt="25" width="400" class="rotate90"/>
+
+<br>
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/26.JPG" alt="26" width="400" class="rotate90"/>
+
+<br>
+<br>
+
+Cracked!
+
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/28.JPG" alt="28" width="400" class="rotate90"/>
+
+<br>
+<br>
+
+Talk about finishing back home in CA and adding in components from around the house. 
+
+<br>
+<br>
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/finished.jpg" alt="finished" width="400"/>
 
