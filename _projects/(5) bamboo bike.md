@@ -22,6 +22,8 @@ Bamboo Bicycles Beijing (BBB) is nestled in the old quarter of Beijing within th
 
 <br>
 <br>
+<br>
+<br>
 
 The workshop is a cramped 500 square feet or so, but they've somehow managed to fit six workstations into the space. On the frigid December weekend I show up, I'm the only one working on a bike. 
 
@@ -33,9 +35,16 @@ The workshop is a cramped 500 square feet or so, but they've somehow managed to 
 <br>
 ### Day 1
 
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/02.JPG" alt="02" width="400" class="rotate90"/>
+The folks at BBB have refined their bike-building process to the point where you can finish putting together a bamboo frame over the course of a single weekend. Mowgli, my instructure, explained that they're settled on the current technique after years of experimentation. One wall of the workshop is covered with pictures of former students showing off their finished bikes, a testament to this history. 
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/04.JPG" alt="04" width="400" class="rotate90"/>
+
+<br>
+<br>
+
+
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/02.JPG" alt="02" width="400" class="rotate90"/>
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/07.JPG" alt="07" width="400" class="rotate90"/>
 
