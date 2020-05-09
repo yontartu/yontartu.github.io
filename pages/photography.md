@@ -67,11 +67,11 @@ Hokkaido, Japan
 Tokyo, Japan
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/15_jiufen.jpg" alt="15_jiufen" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/15_jiufen.jpg" alt="15_jiufen" width="800"/>
 Jiufen, Taiwan
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/16_greatwall.JPG" alt="16_greatwall" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/16_greatwall.JPG" alt="16_greatwall" width="800"/>
 Beijing, China
 
 <br>
@@ -79,7 +79,7 @@ Beijing, China
 Monterey, CA
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/18_kanazawa.jpg" alt="18_kanazawa" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/18_kanazawa.jpg" alt="18_kanazawa" width="800"/>
 Kanazawa, Japan
 
 <br>
@@ -87,7 +87,7 @@ Kanazawa, Japan
 Zion National Park, UT
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sigol.JPG" alt="20_sigol" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sigol.JPG" alt="20_sigol" width="600"/>
 Seocheon, South Korea
 
 <br>
