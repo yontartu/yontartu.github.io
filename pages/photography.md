@@ -87,7 +87,7 @@ Kanazawa, Japan
 Zion National Park, UT
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sigol.JPG" alt="20_sigol" height="800" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sigol.JPG" alt="20_sigol" width="600" class="rotate90"/>
 Seocheon, South Korea
 
 <br>
