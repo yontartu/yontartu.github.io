@@ -43,11 +43,11 @@ Valley of the Gods, UT
 Barcelona, Spain
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_lhasa.JPG" alt="09_lhasa" width="800"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_lhasa.JPG" alt="09_lhasa" width="600"/>
 Lhasa, Tibet
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/10_miyajima.JPG" alt="10_miyajima" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/10_miyajima.JPG" alt="10_miyajima" width="800"/>
 Miyajima, Japan
 
 <br>
@@ -55,7 +55,7 @@ Miyajima, Japan
 Angkor Wat, Cambodia
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/12_dunhuang.JPG" alt="12_dunhuang" width="800" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/12_dunhuang.JPG" alt="12_dunhuang" width="800"/>
 Dunhuang, China
 
 <br>
