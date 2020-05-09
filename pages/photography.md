@@ -43,12 +43,8 @@ Valley of the Gods, UT
 Barcelona, Spain
 
 <br>
-<br>
-<br>
-<br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_lhasa.JPG" alt="09_lhasa" width="800" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/09_lhasa.JPG" alt="09_lhasa" width="800"/>
 Lhasa, Tibet
-<br>
 
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/10_miyajima.JPG" alt="10_miyajima" width="800" class="rotate180"/>
