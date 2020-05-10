@@ -90,11 +90,11 @@ Zion National Park, UT
 Seocheon, South Korea
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/26_daisetsuzan.jpg" alt="26_daisetsuzan" width="600"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/26_daisetsuzan.jpg" alt="26_daisetsuzan" width="800"/>
 Daisetsuzan National Park, Japan
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/27_otaru.jpg" alt="27_otaru" width="600"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/27_otaru.jpg" alt="27_otaru" width="800"/>
 Otaru, Japan
 
 <br>
