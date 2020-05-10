@@ -13,52 +13,33 @@ Before moving to Beijing in 2017, I'd heard about a bicycle studio that put on w
 Bamboo Bicycles Beijing (BBB) is nestled in the old quarter of Beijing within the Second Ring Road, just Northeast of the Forbidden City on a quiet alleyway called *Langjia hutong*. In these ancient mazes of narrow streets, the incessant buzz of the bustling city recedes into a calm. Retirees taking leisurely strolls wander by, the curious ones occassionally peering into the studio. 
 
 <br>
-<br>
-
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/00.JPG" alt="00" width="400"/>
 
-<br>
-<br>
-<br>
 <br>
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/05.JPG" alt="05" width="400"/>
 
-<br>
-<br>
-
 The workshop is a cramped 500 square feet or so, but they've somehow managed to fit six workstations into the space. On the frigid December weekend I show up, I'm the only one working on a bike. 
 
 <br>
-<br>
-
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/01.JPG" alt="01" width="400" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/01.JPG" alt="01" width="400"/>
 
 <br>
-<br>
 
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/03.JPG" alt="03" width="400" class="rotate180"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/03.JPG" alt="03" width="400"/>
 
-<br>
 
 ### Day 1
 
 The folks at BBB have refined their bike-building process to the point where you can finish putting together a bamboo frame over the course of a single weekend. Mowgli, my instructor, explained that they've settled on the current technique after years of experimentation. One wall of the workshop is covered with pictures of former students showing off their finished bikes, a testament to this history. 
 
 <br>
-<br>
 
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/04.JPG" alt="04" width="400" class="rotate90"/>
-
-<br>
-<br>
-<br>
-<br>
-
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/02.JPG" alt="02" width="400" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/04.JPG" alt="04" width="400"/>
 
 <br>
-<br>
+
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/02.JPG" alt="02" width="400"/>
 
 The first order of business was to pick out the pieces of bamboo to use in my bike. BBB sources its bamboo of Taiwan, after trying a variety of species and strands. I had been curious which varieties of bamboo I could use in my bike, but Mowgli said that they'd found green bamboo to be the most sturdy (they had previously used black bamboo extensively but had discovered some structural issues with some of their bikes). It was fun to examine each of the long bamboo pieces for idiosyncracies and quirks. I felt a bit like a panda picking out lunch. 
 
