@@ -86,9 +86,16 @@ Kanazawa, Japan
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/19_zion.jpg" alt="19_zion" width="800"/>
 Zion National Park, UT
 
-<br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/20_sigol.JPG" alt="20_sigol" width="600" class="rotate90"/>
 Seocheon, South Korea
+
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/26_daisetsuzan.jpg" alt="26_daisetsuzan" width="600"/>
+Daisetsuzan National Park, Japan
+
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/27_otaru.jpg" alt="27_otaru" width="600"/>
+Otaru, Japan
 
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/21_venice.jpg" alt="21_venice" width="600"/>
