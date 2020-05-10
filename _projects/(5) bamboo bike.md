@@ -15,14 +15,14 @@ Bamboo Bicycles Beijing (BBB) is nestled in the old quarter of Beijing within th
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/00.JPG" alt="00" width="400" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/00.JPG" alt="00" width="400"/>
 
 <br>
 <br>
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/05.JPG" alt="05" width="400" class="rotate90"/>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/05.JPG" alt="05" width="400"/>
 
 <br>
 <br>
