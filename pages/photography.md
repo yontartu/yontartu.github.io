@@ -5,7 +5,7 @@ permalink: /photography/
 weight: 4
 ---
 
-# Photo Gallery
+# Photography
 
 <br>
 I enjoy taking photos. Here are some of my favorites from my travels. 
@@ -100,6 +100,10 @@ Otaru, Japan
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/21_venice.jpg" alt="21_venice" width="600"/>
 Venice, Italy
+
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/28_shatter.jpg" alt="28_shatter" width="600"/>
+San Francisco, CA
 
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/22_snowden.jpg" alt="22_snowden" width="800"/>
