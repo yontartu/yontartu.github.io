@@ -10,7 +10,7 @@ description: While living in Beijing, I spent a winter building a bicycle out of
 
 Before moving to Beijing in 2017, I'd heard about a bicycle studio that put on workshops to teach people how to build a bike out of bamboo and carbon fiber. While I was in college I'd welded my own bike out of steel, an experience which I had absolutely loved. But bamboo! This I couldn't pass up. I signed up for a workshop soon after settling into my dorm at Peking University.
 
-Bamboo Bicycles Beijing (BBB) is nestled in the old quarter of Beijing within the Second Ring Road, just Northeast of the Forbidden City on a quiet alleyway called *Langjia hutong*. In these ancient mazes of narrow streets, the incessant buzz of the bustling city recedes into a calm. Retirees taking leisurely strolls wander by, the curious ones occassionally peering into the studio. 
+Bamboo Bicycles Beijing (BBB) is nestled in the old quarter of Beijing within the Second Ring Road, just Northeast of the Forbidden City on a quiet alleyway called *langjia hutong*. In these ancient mazes of narrow streets, the incessant buzz of the bustling city recedes into a calm. Retirees taking leisurely strolls wander by, the curious ones occassionally peering into the studio. 
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/00.JPG" alt="00" width="400"/>
 <br>
@@ -23,7 +23,7 @@ The workshop is a cramped 500 square feet or so, but they've somehow managed to 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/03.JPG" alt="03" width="400"/>
 
 
-### Day 1
+## Day 1
 
 The folks at BBB have refined their bike-building process to the point where you can finish putting together a bamboo frame over the course of a single weekend. Mowgli, my instructor, explained that they've settled on the current technique after years of experimentation. One wall of the workshop is covered with pictures of former students showing off their finished bikes, a testament to the shop's history and impact on the local community. 
 
@@ -73,76 +73,38 @@ By the end of the afternoon on Saturday, I had a few tubes of bamboo glued to a 
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/20.JPG" alt="20" width="400"/>
 
-### Day 2
+## Day 2
 
-I returned to the studio early the next morning to survey our progress to date. While the previous day's work had mostly entailed preparation, Mowgli stated that today we were going to get pretty messy. 
-<br>
-<br>
+I returned to the studio early the next morning to survey my progress to date. While the previous day's work had mostly entailed preparation, Mowgli stated that today we were going to get pretty messy. For most of the day on Sunday, I had on latex gloves drenched in glue. The craftsmen at BBB had experimented with numerous types of binding agents to ensure the carbon fiber ribbons adhered to the bamboo. They'd eventually settled on a combination of epoxy two different epoxys, which when combined became liquid enough to handle and apply to the carbon fiber relatively, while also solidifying in under an hour. These compounds were stored in separate, unlabeled plastic hand soap dispensers. On the frigid December day I was in the shop, both bottles were resting atop a space heater, to allow their contents to thaw. 
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/21.jpg" alt="21" width="400"/>
+<br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/22.JPG" alt="22" width="400"/>
 
-<br>
-<br>
-
-text
-
-<br>
-<br>
-
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/22.JPG" alt="22" width="400" class="rotate90"/>
-
-<br>
-<br>
-<br>
-<br>
+At each junction where steel met bamboo, I would take a spool of carbon fiber ribbon, coat it generously with the epoxy combination, and bind the bamboo tubing with the steel component in an intricate pattern. To join the bamboo top tube with the steel headset, for instance, I started by wrapping the carbon fiber from the upper-left side of the headset, pulling it taut along the top of the tube before tightening it along the inner right edge of the headset, and repeating this figure-eight pattern in reverse. Each spool was expended on a specific structural pattern like this. 
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/23.JPG" alt="23" width="400"/>
 
-<br>
-<br>
-
-Almost finished!
-
-<br>
-<br>
+Given that the number of parts coming together (five) at both the seat post and bottom bracket junctures, these binding spots required the most carbon fiber spools, to ensure their structural integrity. After finishing up all the carbon fiber bindings, the final step involved covering each exposed face of carbon fiber with electric tape. This was another technique that Mowgli and team had devised to enhance the bindings' strength while also improving the aesthetic finish. Allowing the epoxy-coated carbon fiber to dry while encased in electric tape helped to press out any excess glue, and gave the dark joins a smoother, sleaker surface. 
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/24.JPG" alt="24" width="400"/>
-
 <br>
-<br>
-<br>
-<br>
-
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/25.JPG" alt="25" width="400"/>
-
 <br>
-<br>
-<br>
-<br>
-
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/26.JPG" alt="26" width="400"/>
 
-<br>
-<br>
+A couple hours later, after the bindings had fully dried, it was time to pull off the electric tape. Using a pocket knife, I carefully cut away the tape, separating it from the carbon fiber. This was mostly straightforward, achieved by brute force, but some of the joints with sharper angles required a fair amount of digging out calcified tape with the sharpened edge of the blade. 
 
-Cracked!
-
-<br>
-<br>
+I ended up leaving the bike in the studio for an additional week, my plan being to return to finish up some detailing to the frame. But two days later, I got a message from Mowgli informing me that the frame had cracked! A drop in temperatures in the city had likely caused the frame to shink, creating a hairline crack along most of the length of the top tube. But I learned patching up the crack with epoxy and sanding down the surface would be an adequate patch. During my first day at the workshop, I'd heard that one past participant's bike had been T-boned in an accident with a car, but rather than splitting in two, remarkably the rigidity of the bamboo had caused it to collapse on itself, which was also easy to patch up with some epoxy and carbon fiber. 
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/28.jpg" alt="28" width="400"/>
 
-<br>
-<br>
+During the New Years holiday, I lugged back my bamboo frame to my family's home in the Bay Area. Over the next several weeks, I pieced together some spare bike components from around the house (an old set of derailleurs, shifters, wheels and handlebars) and sourced a few others that I didn't have (like a carbon fiber fork). I spent most of the break assembling the frame together. 
 
-Talk about finishing back home in CA and adding in components from around the house. 
-
-<br>
-<br>
+One of the trickiest obstacles I encountered while putting this all together was deciding what to do about the front cogs on the crankset. Most road bikes have two cogs attached to the crank, a large gear for more efficient peddling and a small gear to help with climbing up hills. But having multiple cogs up front would require a front derailleur to shift between them, and I had discovered that the bamboo tubing was too thick to allow installation of a shifter. After being stumped for a few days on how to address this technical roadblock, while doing some additional research I read about a recent trend of roadbikes only using a single front cog, along with a standard 9- or 10-speed cassette in the rear. While it halved the number of gear combinations, some bike manufacturers were playing it up as a more minimalist set-up. I thought this could be a cool and crafty solution to get around my tubing issue. 
 
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/bbb/finished.jpg" alt="finished" width="400"/>
 
-<br>
-<br>
+Stepping onto the bike for the first time and riding it down the street was such an unbelievable feeling. I was riding a bamboo bike I'd put together with my own hands!
 
-A few months after returning to the U.S., I reached out to Mowgli to say hello. He shared with me some sad news: BBB had recently closed its doors, unable to continue putting on bike-making workshops. 
+A few months after returning to the U.S., I reached out to Mowgli to say hello. He shared with me some sad news: BBB had recently closed its doors, unable to continue putting on bike-making workshops. I had been one of the last participants ever in one of BBB's workshops. Today, every time I steal a glance at my bamboo bike or whisk off on it for another ride, I'm taken back to Beijing, to *langjia hutong*, to the cramped workshop where I spent a frigid winter working on such a memorable project. 
