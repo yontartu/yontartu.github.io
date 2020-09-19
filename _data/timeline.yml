@@ -1,8 +1,13 @@
+- title: Lead Data Scientiest, Priorities USA
+  from: 2019
+  to: Present
+  description: Head a team 3 data scientists, conducting quantitative analyses
+               to help drive political strategy.
+
 - title: Data Science Fellow, Flatiron School
   from: 2019
   to: 2019
-  description: Intensive, fully-funded data science program for PhD/Master’s 
-               in STEM fields.
+  description: Intensive, fully-funded data science program for PhD/Master’s.
 
 - title: Yenching Scholar, Peking University
   from: 2017
@@ -23,8 +28,8 @@
                financial companies treat Americans fairly.
 
 - title: Student, Georgetown University
-  from: 2011
-  to: 2015
+  from: 
+  to: 
   description: I completed my undergraduate studies at Georgetown's Walsh School 
                of Foreign Service, majoring in international political economy 
                with a certificate in Asian studies.
