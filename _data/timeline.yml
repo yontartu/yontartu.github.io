@@ -2,20 +2,18 @@
   from: 2019
   to: Present
   description: I built and manage a team of 3 data scientists, conducting quantitative analyses
-               to help guide political strategy. Priorities USA is the leading super PAC working to elect Democrats up and down the ballot in 2020. 
+               to help guide political strategy. Priorities USA is the leading SuperPAC working to elect Democrats up and down the ballot in 2020. 
 
 - title: Data Science Fellow, Flatiron School
   from: 2019
   to: 2019
-  description: Intensive, fully-funded data science program for PhD/Master’s.
+  description: Intensive, fully-funded data science program for PhD/Master’s. My [research](https://joeygoodman.us/projects/1-russian-trolls) focused on detecting disinformation on social media.
 
 - title: Yenching Scholar, Peking University
   from: 2017
   to: 2019
   description: Fully-funded Master's/fellowship program at the Yenching Academy in Beijing,
-               a community of young scholars and leaders from around the globe. 
-               
-               My research focused on the political economy of air pollution. 
+               a community of young scholars and leaders from around the globe. My [research](https://joeygoodman.us/articles/blue-skies-for-allies) focused on the political economy of air pollution. 
 
 - title: Data Scientist, Consumer Financial Protection Bureau
   from: 2015
