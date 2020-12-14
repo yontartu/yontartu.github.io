@@ -10,7 +10,7 @@ weight: 1
 <br>
 I'm a Chinese-Peruvian-Jew who grew up in San Francisco and have also lived in Washington, DC and Beijing, China. I like to collect experiences that don't always relate to one another. I've worked in data science, progressive politics, policy-making and federal government. One common denominator between these experiences has been using hard numbers to solve puzzles, both large and small. 
 
-In my free time, I enjoy riding (and occasionally [building](https://joeygoodman.us/projects/5-bamboo-bike)) bicycles. 
+In my free time, I enjoy riding (and occasionally [building](https://joeygoodman.us/projects/5-bamboo-bike)) bicycles and losing in online chess. 
 
 <br>
 You can reach me at `hello` [at] `joeygoodman` [dot] `us`. 
