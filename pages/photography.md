@@ -8,7 +8,8 @@ weight: 4
 # Photography
 
 <br>
-I enjoy taking photos. Here are some of my favorites from my travels. 
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/32_pt_reyes.jpg" alt="32_pt_reyes" width="800" />
+Pt. Reyes Station, CA
 
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/01_abq.jpg" alt="01_abq" width="800" />
@@ -27,6 +28,10 @@ Marfa, TX
 Cayucos, CA
 
 <br>
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/30_ica.JPG" alt="30_ica" width="800" />
+Ica, Peru
+
+<br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/05_oaxaca.JPG" alt="05_oaxaca" width="800" />
 Oaxaca, Mexico
 
@@ -34,10 +39,10 @@ Oaxaca, Mexico
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/06_southafrica.jpg" alt="06_southafrica" width="800" />
 Cape Town, South Africa
 
-<br>
+<!-- <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/07_valley_of_the_gods.jpg" alt="07_valley_of_the_gods" width="800" />
 Valley of the Gods, UT
-
+ -->
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/08_barcelona.jpg" alt="08_barcelona" width="600"/>
 Barcelona, Spain
@@ -59,13 +64,13 @@ Angkor Wat, Cambodia
 Dunhuang, China
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/13_hokkaido.jpg" alt="13_hokkaido" width="800"/>
-Hokkaido, Japan
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/29_paracas.jpg" alt="29_paracas" width="800"/>
+Paracas, Peru
 
-<br>
+<!-- <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/14_tokyo.jpg" alt="14_tokyo" width="800"/>
 Tokyo, Japan
-
+ -->
 <br>
 <img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/15_jiufen.jpg" alt="15_jiufen" width="800"/>
 Jiufen, Taiwan
