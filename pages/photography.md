@@ -8,7 +8,7 @@ weight: 4
 # Photography
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/32_pt_reyes.jpg" alt="32_pt_reyes" width="800" />
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/32_pt_reyes.jpeg" alt="32_pt_reyes" width="800" />
 Pt. Reyes Station, CA
 
 <br>
@@ -28,7 +28,7 @@ Marfa, TX
 Cayucos, CA
 
 <br>
-<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/30_ica.JPG" alt="30_ica" width="800" />
+<img src="https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/photography/30_ica.jpg" alt="30_ica" width="800" />
 Ica, Peru
 
 <br>
