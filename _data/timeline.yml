@@ -1,7 +1,12 @@
+- title: Director of Data, City of New York
+  from: 2021
+  to: 
+  description: I lead the data team at the NYC Mayor's Office of the CTO. 
+
 - title: Lead Data Scientist, Priorities USA
   from: 2019
-  to: Present
-  description: I built and manage a team of 3 data scientists, conducting quantitative analyses
+  to: 2020
+  description: I built and managed a team of 3 data scientists, conducting quantitative analyses
                to help guide political strategy. Priorities USA is the leading SuperPAC working to elect Democrats up and down the ballot in 2020. 
 
 - title: Data Science Fellow, Flatiron School
