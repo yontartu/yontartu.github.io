@@ -10,16 +10,16 @@ repository          : yontartu/yontartu.github.io      # repository metadata on 
 
 ### Author Info ###
 author:
-  name              : Joey
+  name              : J
   image             : https://raw.githubusercontent.com/yontartu/yontartu.github.io/master/images/delicate.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : hello@joeygoodman.us
+#  email             : 
 # facebook          : your_username
   github            : yontartu
 # gitlab            : your_username
 # instagram         : your_username
-  linkedin          : josephgoodman1
+# linkedin          : 
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
